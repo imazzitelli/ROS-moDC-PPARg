@@ -1,0 +1,12 @@
+# Input data (available from GEO)
+data/
+
+# Generated tables and objects (recreated by the script)
+results/
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
